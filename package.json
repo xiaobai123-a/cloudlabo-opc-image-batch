@@ -1,0 +1,18 @@
+{
+  "name": "image-batch",
+  "version": "1.0.2",
+  "description": "批量调整尺寸、裁剪、转换格式、添加文字水印并统一命名。",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test tests/core.test.cjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "offline",
+    "browser",
+    "local-first",
+    "tool"
+  ]
+}
